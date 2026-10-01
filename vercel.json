@@ -1,6 +1,7 @@
 {
+  "version": 2,
   "functions": {
-    "api/study.js": {
+    "api/generate.js": {
       "maxDuration": 60
     }
   }
